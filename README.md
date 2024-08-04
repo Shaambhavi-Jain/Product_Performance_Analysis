@@ -13,7 +13,7 @@ Data Analysis Process:
 - Data was acquired from Kaggle.
 - Data was cleaned and structured using Microsoft Excel.
 - Data exploration was performed using SQL queries.
-- 
+
 Key Performance Indicators (KPIs):
 - Sales revenue
 - Sales volume

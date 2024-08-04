@@ -29,8 +29,7 @@ Dimensions Analysed:
 - Time (monthly and quarterly)
 
 Key Findings:
-Created a Tableau Dashboard showing various relations between the data
-Some of the highlights from the dashboards are:
+Created a Tableau dashboard to visualize data trends and patterns. Some highlights from the dashboards are:
 - Paseo was the most profitable product, contributing 30% to overall profits.
 - Sales dropped by 9.5% for 3 products in the fourth quarter of 2014.
 - Products in the enterprise economic segment were identified as unprofitable.

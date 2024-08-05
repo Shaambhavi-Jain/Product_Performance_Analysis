@@ -1,7 +1,7 @@
 # Product-Performance-Analysis
 This project utilizes sales data for a company spanning from Q4 2013 to Q4 2014.
 
-##Project Goals: 
+## Project Goals: 
 - Conduct a comparative analysis of monthly or quarterly sales performance.
 - Identify top-performing segments and products based on sales data.
 - Analyze sales trends and patterns over time to identify growth opportunities.

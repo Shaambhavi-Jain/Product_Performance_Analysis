@@ -1,6 +1,5 @@
 # Product-Performance-Analysis
 This project utilizes sales data for a company spanning from Q4 2013 to Q4 2014.
-( https://public.tableau.com/app/profile/shaambhavi.jain/viz/ProductSalesDashbaord/ProductSalesDashboard4 )
 
 ## Project Goals: 
 - Conduct a comparative analysis of monthly or quarterly sales performance.

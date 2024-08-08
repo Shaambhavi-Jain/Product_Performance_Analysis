@@ -1,7 +1,7 @@
 # Product Performance Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Goals](#objectives)
+- [Objectives](#objectives)
 - [Data Analysis Process](#data-analysis-process)
 - [Key Performance Indicators](#key-performance-indicators)
 - [Dimensions Analysed](#dimensions-analysed)

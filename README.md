@@ -12,7 +12,7 @@
 This project aims to conduct a comprehensive analysis of sales performance across multiple product lines for a company, utilizing sales data from Q4 2013 to Q4 2014, with the objective of identifying trends, patterns, and opportunities for growth.
 
 ### Objectives
-The primary objectives of this project were: 
+The primary objectives of this project are: 
 - Conduct a comparative analysis of monthly or quarterly sales performance.
 - Identify top-performing segments and products based on sales data.
 - Analyze sales trends and patterns over time to identify growth opportunities.

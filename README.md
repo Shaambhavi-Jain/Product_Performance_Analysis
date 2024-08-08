@@ -25,6 +25,9 @@ The primary objectives of this project are:
 - Data was cleaned and structured using Microsoft Excel.
 - Data exploration was performed using SQL queries.
 - A [Tableau dashboard](https://public.tableau.com/app/profile/shaambhavi.jain/viz/ProductSalesDashbaord/ProductSalesDashboard4) was constructed to provide actionable insights from the data.
+<img width="650" alt="Screenshot 2024-08-08 at 6 50 51 PM" src="https://github.com/user-attachments/assets/6683b3d4-0996-4a56-b3fa-420a5cb96c57">
+
+
 
 ### Key Performance Indicators
 - Sales revenue

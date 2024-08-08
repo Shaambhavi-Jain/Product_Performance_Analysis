@@ -44,8 +44,17 @@ The products were analysed across 4 major dimensions:
 ### Key Findings
 Some highlights from the dashboards are:
 - Paseo was the most profitable product, contributing 30% to overall profits.
+<img width="336" alt="Screenshot 2024-08-08 at 6 33 51 PM" src="https://github.com/user-attachments/assets/04b9953c-81f5-4efb-b245-463518ca377f">
+
+
 - Sales dropped by 9.5% for 3 products in the fourth quarter of 2014.
+<img width="956" alt="Screenshot 2024-08-08 at 6 36 19 PM" src="https://github.com/user-attachments/assets/669d9495-35ba-4747-9117-2f91daaf9663">
+
+
 - Products in the enterprise economic segment (priced at $125) were identified as unprofitable.
+<img width="411" alt="Screenshot 2024-08-08 at 6 43 15 PM" src="https://github.com/user-attachments/assets/a786864e-4180-444b-aa37-248f4cd4ada5">
+
+
 
 ### Recommendations
 - Invest in Paseo, analyze its success factors, and apply learnings to other products.

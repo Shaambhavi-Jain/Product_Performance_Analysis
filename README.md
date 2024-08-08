@@ -24,7 +24,7 @@ The primary objectives of this project are:
 - Data was acquired from [Kaggle](https://www.kaggle.com/datasets/anuchhetry/product-sales).
 - Data was cleaned and structured using Microsoft Excel.
 - Data exploration was performed using SQL queries.
-- A Tableau dashboard was constructed to provide actionable insights from the data.
+- A [Tableau dashboard](https://public.tableau.com/app/profile/shaambhavi.jain/viz/ProductSalesDashbaord/ProductSalesDashboard4) was constructed to provide actionable insights from the data.
 
 ### Key Performance Indicators
 - Sales revenue
@@ -42,10 +42,10 @@ The products were analysed across 4 major dimensions:
 - Time (monthly and quarterly)
 
 ### Key Findings
-Created a Tableau dashboard to visualize data trends and patterns. Some highlights from the dashboards are:
+Some highlights from the dashboards are:
 - Paseo was the most profitable product, contributing 30% to overall profits.
 - Sales dropped by 9.5% for 3 products in the fourth quarter of 2014.
-- Products in the enterprise economic segment were identified as unprofitable.
+- Products in the enterprise economic segment (priced at $125) were identified as unprofitable.
 
 ### Recommendations
 - Invest in Paseo, analyze its success factors, and apply learnings to other products.

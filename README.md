@@ -1,4 +1,4 @@
-# Product Performance Analysis
+# Sales Data Analysis and Visualization
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
